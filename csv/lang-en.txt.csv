@@ -1,0 +1,3 @@
+“CORRECT_COUNT_STREAK_TEXT”,“Your chain was {CORRECT_COUNT} correct answers”
+“SELECT_NUM_QUESTION_FOR_CLASSIC”,“Select number of questions to play”
+“CORRECT_COUNT_CLASSIC_TEXT”,“You answered {CORRECT_COUNT} out of {TOTAL_COUNT} questions correctly.”
