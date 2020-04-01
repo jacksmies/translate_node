@@ -1,150 +1,150 @@
-"""DEFAULT""","""Success"""
-"""GET_GAME_MODES""","""Choose game mode"""
-"""GET_APPS_LEADERBOARDS""","""Ranking"""
-"""LEADERBOARD_BUTTON_TEXT""","""Leaderboard"""
-"""GET_KNOWLEDGE_AREA_CATEGORIES""","""Classic"""
-"""GET_CATEGORIES_TITLE""","""Select Categories"""
-"""SURPRISE_ME_BUTTON_TEXT""","""PLAY RANDOM"""
-"""START_GAME_BUTTON_TEXT""","""START"""
-"""KNOWLEDGE_AREA_HEADING""","""Knowledge Areas"""
-"""CATEGORY_HEADING""","""Categories"""
-"""SELECT_ALL_TEXT""","""Select all"""
-"""ALL_TEXT""","""All"""
-"""SPIN_PAGE_TITLE""","""Quiz"""
-"""SPIN_BUTTON_TEXT""","""SPIN"""
-"""RESULT_TITLE    ""","""Results"""
-"""CONGRATULATION_TEXT""","""Congratulations"""
-"""PLAY_AGAIN_TEXT""","""Play Again"""
-"""LEADERBOARD_TEXT""","""Leaderboard"""
-"""CORRECT_COUNT_STREAK_TEXT""","""Your chain was {CORRECT_COUNT} correct answers"""
-"""SELECT_NUM_QUESTION_FOR_CLASSIC""","""Select number of questions to play"""
-"""LEADERBOARD_TITLE_TEXT""","""Leaderboard"""
-"""YOUR_RANK_TEXT""","""Your rank"""
-"""GLOBAL_TEXT   ""","""Global"""
-"""LONGEST_STREAK_TEXT""","""Longest Chain"""
-"""LONGEST_CLASSIC_TEXT""","""Correct Answers"""
-"""MAXIMUM_COMBAT_TEXT""","""Maximum combat win"""
-"""STREAK_TEXT""","""Chain"""
-"""BATTLE_TEXT""","""Battle"""
-"""EMPLEX_TEXT""","""Ranking"""
-"""COMBAT_TEXT""","""Battle"""
-"""CLASSIC_TEXT""","""Classic"""
-"""CORRECT_COUNT_CLASSIC_TEXT""","""You answered {CORRECT_COUNT} out of {TOTAL_COUNT} questions correctly."""
-"""QUESTION_FEEDBACK_TITLE""","""View Answer"""
-"""YOUR_ANSWER_TEXT""","""Your answer"""
-"""CORRECT_ANSWER_TEXT""","""Correct answer"""
-"""ANSWER_EXPLANATION_TEXT""","""Explanation of answer"""
-"""GIVE_RATING_TEXT""","""Rate this question"""
-"""REVIEW_TEXT""","""Reviews"""
-"""LEARNING_TITLE_TEXT""","""Learning"""
-"""NEXT_BUTTON_TEXT""","""Next"""
-"""QUESTION_TITLE""","""Answer Question"""
-"""TIME_OUT_TEXT""","""You have been timed out"""
-"""JOURNEY_RESULT_TITLE_TEXT""","""Result"""
-"""JOURNEY_RESULT_CONGRATULATION_TEXT""","""Congratulations"""
-"""JOURNEY_RESULT_PASS_TEXT""","""You have completed the {MODULE_NAME} module"""
-"""JOURNEY_RESULT_TEXT""","""Your Results"""
-"""JOURNEY_RESULT_SCORE_TEXT""","""Your overall score is """
-"""JOURNEY_RESULT_DESCRIPTION_TEXT""","""Do the test, earn your first Badge and unlock new games!"""
-"""JOURNEY_RESULT_NEXT_BUTTON_TEXT""","""Next"""
-"""JOURNEY_FEEDBACK_TITLE""","""Feedback"""
-"""JOURNEY_FEEDBACK_DESCRIPTION_TEXT""","""Please rate this {COURSE_NAME} learn before you begin your test!"""
-"""JOURNEY_FEEDBACK_RATING_TEXT""",""""""
-"""JOURNEY_FEEDBACK_TEXT""","""How can we further improve this learning journey?"""
-"""JOURNEY_FEEDBACK_BUTTON_TEXT""","""Submit & start test"""
-"""JOURNEY_QUIZ_RESULT_TITLE""","""Your Test Result"""
-"""JOURNEY_QUIZ_CONTRATULATION_TEXT""","""Congratulations!"""
-"""JOURNEY_QUIZ_OPPS_TEXT""","""Oh No!"""
-"""JOURNEY_QUIZ_CONTRATULATION_DESCRIPTION_TEXT""","""You have passed the {MODULE_NAME} test."""
-"""JOURNEY_QUIZ_OOPS_DESCRIPTION_TEXT""","""You did not pass the {MODULE_NAME} test, please try again."""
-"""JOURNEY_QUIZ_RESULT_TEXT""","""Your Results"""
-"""JOURNEY_YOUR_SCORED_TEXT""","""You scored """
-"""JOURNEY_PASS_TEXT""","""You have passed the test"""
-"""JOURNEY_FAIL_TEXT""","""You have failed the test"""
-"""JOURNEY_REDO_BUTTON_TEXT""","""Redo Test"""
-"""JOURNEY_FINISH_BUTTON_TEXT""","""Finish Test"""
-"""JOURNEY_MODULE_CONGRATULATION_TEXT""","""Congratulations"""
-"""JOURNEY_MODULE_CONGRATULATION_DESCRIPTION_TEXT""","""Congratulations, you have earned your {MODULE_NAME} badge"""
-"""JOURNEY_NEXT_MODULE_TEXT""","""And unlocked the {NEXT_MODULE_NAME} module"""
-"""JOURNEY_NEXT_MODULE_DESCRIPTION_TEXT""",""""""
-"""JOURNEY_MODULE_NEXT_BUTTON_TEXT""","""Next"""
-"""KNOWLEDGE_AREA_LEARNING_MODULE_TITLE""","""Learn"""
-"""MODULE_LEARNING_MODULE_TITLE""","""Select Module"""
-"""KNOWLEDGE_AREA_LEARNING_MODULE_VIEW_BUTTON_TEXT""","""View Module"""
-"""KNOWLEDGE_AREA_LEARNING_MODULE_START_BUTTON_TEXT""","""Start Module"""
-"""KNOWLEDGE_AREA_LEARNING_MODULE_TEXT""","""Learning Module"""
-"""QUESTION_CREATED_BY_INFO_TITLE""","""Author"""
-"""TOTAL_QUESTION_TEXT""","""Total Question"""
-"""QUESTION_ID_TEXT""","""Question id"""
-"""QUESTION_SUBMISSION_TEXT""",""""""
-"""QUESTION_FEEDBACK_TEXT""","""Question Feedback"""
-"""QUESTION_FEEDBACK_BUTTON_TEXT""","""Submit Now"""
-"""LIST_APP_POP_UP_BUTTON_TEXT""","""Play Now"""
-"""GAME_MODE_BUTTON_TEXT""","""Play Now"""
-"""USER_BADGES_TITLE""","""My Badges"""
-"""JOURNEY_MODULE_COMPLETE_BUTTON_TEXT""","""Done"""
-"""JOURNEY_CONTENT_RATING_TEXT""","""Rate this content"""
-"""JOURNEY_CONTENT_REVIEW_TEXT""","""Reviews"""
-"""LIST_APP_QUEST_BUTTON_TEXT""","""Learn now"""
-"""LIST_APP_POLL_BUTTON_TEXT""","""Vote now"""
-"""LIST_APP_KUDOS_BUTTON_TEXT""","""Give Kudos"""
-"""JOURNEY_QUIZ_BADGE_INFO_POP_UP_TEXT""","""This test consists of {NUM_OF_QUESTION} questions and you need to have {PASS_PERCENTAGE}% correct to pass it."""
-"""JOURNEY_QUIZ_BADGE_INFO_POP_UP_TITLE""","""Test your knowledge."""
-"""JOURNEY_QUIZ_BADGE_INFO_POP_UP_BUTTON_TEXT""","""Start!"""
-"""JOURNEY_FEEDBACK_SKIP_BUTTON_TEXT""","""Skip"""
-"""USER_MODULE_COMPLETE_TEXT""","""Done"""
-"""APP_HOME_RECOMMENDATION_TITLE""","""ACAMS TV"""
-"""APP_HOME_SEE_ALL_TEXT""","""See all"""
-"""APP_HOME_SEE_LESS_TEXT""","""See less"""
-"""APP_HOME_TIMELINE_TITLE""","""Timeline"""
-"""APP_HOME_LEARNING_TITLE""","""Continue learning"""
-"""APP_HOME_TV_TEXT""","""See all"""
-"""APP_HOME_TIMELINE_TEXT""","""See all"""
-"""APP_HOME_LEARNING_TEXT""","""Learn more"""
-"""BADGE_NAME""","""Badges"""
-"""SETTING_BOTTOM_LINE_TEXT_1""","""Copyright 2019 Acams.app. All rights reserved."""
-"""SETTING_BOTTOM_LINE_TEXT_2""","""made with ? in """
-"""END_LEVEL_TEXT""","""Complete"""
-"""END_LEVEL_ACRONYM_TEXT""","""Complete"""
-"""PROFILE_QUEST_NAME""","""Learn"""
-"""INVALID_VERIFICATION_CODE""","""Invalid verification code."""
-"""EMAIL_ALREADY_VERIFIED""","""Email is already verified."""
-"""LANGUAGE_TITLE""","""Select Language"""
-"""MORE_SETTING_TITLE""","""Settings"""
-"""KNOWLEDGE_AREA_LAERNING_TITLE""","""Learn"""
-"""NO_DATA_FOUND""","""No Data Found"""
-"""GET_QUESTION_FACTORY_MODES""","""Question Factory"""
-"""RATE_QUESTION_LIST_TITLE""","""Review Questions"""
-"""RATE_QUESTION_SUBMIT_RATING_BUTTON_TEXT""","""Submit Rating"""
-"""RATE_THIS_QUESTION_TEXT""","""Rate this question"""
-"""INVALID_COURSE_ID""","""Invalid course id"""
-"""UNAUTHORIZED_ACCESS""","""Unauthorized access"""
-"""QUESTION_NOT_FOUND""","""Question not added to this category yet."""
-"""CATEGORY_NOT_FOUND""","""Category not found"""
-"""KNOWLEDGE_AREA_NOT_FOUND""","""Knowledge area not found"""
-"""JOURNEY_MODULE_NOT_FOUND""","""Module not found"""
-"""INCORRECT_OPTIONS""","""Options are incorrect"""
-"""INVALID_TOKEN""","""Your access has expired. Please login again."""
-"""DEFAULT""","""Something went wrong."""
-"""NO_APP_FOUND""","""No Apps Found."""
-"""USER_NOT_FOUND""","""This account is not registered with us."""
-"""USER_INACTIVE""","""This User account is deactivated by admin."""
-"""INVALID_COUNTRY_ID""","""Country not found."""
-"""EMAIL_NOT_VERIFIED""","""Please verify your email first."""
-"""INVALID_ANSWERS""","""Invalid answers."""
-"""INVALID_LANGUAGE""","""Default language not found."""
-"""INVALID_RECOMMENDATION_ID""","""Recommendation id not found."""
-"""OPPONENT_NOT_FOUND""","""No opponent available for this organization."""
-"""DEFAULT""","""Success"""
-"""LOGOUT""","""Logged out successfully"""
-"""FEEDBACK_SUBMITTED_SUCCESSFULLY""","""Your feedback has been submitted successfully."""
-"""DEFAULT""","""Success"""
-"""LOGOUT""","""Logged out successfully"""
-"""FEEDBACK_SUBMITTED_SUCCESSFULLY""","""Your feedback has been submitted successfully."""
-"""ANSWER_SUBMITTED""","""Your answer submitted successfully"""
-"""REMINDER_SENT""","""Reminder sent successfully"""
-"""DEFAULT""","""Something went wrong."""
-"""GAME_ID_NOT_FOUND""","""Game not found."""
-"""UNAUTHORIZED_ACCESS""","""unauthorized access."""
-"""INVALID_GAME_MODE_TYPE""","""Invalid game mode type."""
-"""INVALID_COURSE_ID""","""Invalid course, no module found."""
+DEFAULT,Success
+GET_GAME_MODES,ChooseÂ gameÂ mode
+GET_APPS_LEADERBOARDS,Ranking
+LEADERBOARD_BUTTON_TEXT,Leaderboard
+GET_KNOWLEDGE_AREA_CATEGORIES,Classic
+GET_CATEGORIES_TITLE,SelectÂ Categories
+SURPRISE_ME_BUTTON_TEXT,PLAYÂ RANDOM
+START_GAME_BUTTON_TEXT,START
+KNOWLEDGE_AREA_HEADING,KnowledgeÂ Areas
+CATEGORY_HEADING,Categories
+SELECT_ALL_TEXT,SelectÂ all
+ALL_TEXT,All
+SPIN_PAGE_TITLE,Quiz
+SPIN_BUTTON_TEXT,SPIN
+RESULT_TITLE,Results
+CONGRATULATION_TEXT,Congratulations
+PLAY_AGAIN_TEXT,PlayÂ Again
+LEADERBOARD_TEXT,Leaderboard
+CORRECT_COUNT_STREAK_TEXT,YourÂ chainÂ wasÂ {CORRECT_COUNT}Â correctÂ answers
+SELECT_NUM_QUESTION_FOR_CLASSIC,SelectÂ numberÂ ofÂ questionsÂ toÂ play
+LEADERBOARD_TITLE_TEXT,Leaderboard
+YOUR_RANK_TEXT,YourÂ rank
+GLOBAL_TEXT,Global
+LONGEST_STREAK_TEXT,LongestÂ Chain
+LONGEST_CLASSIC_TEXT,CorrectÂ Answers
+MAXIMUM_COMBAT_TEXT,MaximumÂ combatÂ win
+STREAK_TEXT,Chain
+BATTLE_TEXT,Battle
+EMPLEX_TEXT,Ranking
+COMBAT_TEXT,Battle
+CLASSIC_TEXT,Classic
+CORRECT_COUNT_CLASSIC_TEXT,YouÂ answeredÂ {CORRECT_COUNT}Â outÂ ofÂ {TOTAL_COUNT}Â questionsÂ correctly.
+QUESTION_FEEDBACK_TITLE,ViewÂ Answer
+YOUR_ANSWER_TEXT,YourÂ answer
+CORRECT_ANSWER_TEXT,CorrectÂ answer
+ANSWER_EXPLANATION_TEXT,ExplanationÂ ofÂ answer
+GIVE_RATING_TEXT,RateÂ thisÂ question
+REVIEW_TEXT,Reviews
+LEARNING_TITLE_TEXT,Learning
+NEXT_BUTTON_TEXT,Next
+QUESTION_TITLE,AnswerÂ Question
+TIME_OUT_TEXT,YouÂ haveÂ beenÂ timedÂ out
+JOURNEY_RESULT_TITLE_TEXT,Result
+JOURNEY_RESULT_CONGRATULATION_TEXT,Congratulations
+JOURNEY_RESULT_PASS_TEXT,YouÂ haveÂ completedÂ theÂ {MODULE_NAME}Â module
+JOURNEY_RESULT_TEXT,YourÂ Results
+JOURNEY_RESULT_SCORE_TEXT,YourÂ overallÂ scoreÂ isÂ 
+JOURNEY_RESULT_DESCRIPTION_TEXT,"DoÂ theÂ test,Â earnÂ yourÂ firstÂ BadgeÂ andÂ unlockÂ newÂ games!"
+JOURNEY_RESULT_NEXT_BUTTON_TEXT,Next
+JOURNEY_FEEDBACK_TITLE,Feedback
+JOURNEY_FEEDBACK_DESCRIPTION_TEXT,PleaseÂ rateÂ thisÂ {COURSE_NAME}Â learnÂ beforeÂ youÂ beginÂ yourÂ test!
+JOURNEY_FEEDBACK_RATING_TEXT,
+JOURNEY_FEEDBACK_TEXT,HowÂ canÂ weÂ furtherÂ improveÂ thisÂ learningÂ journey?
+JOURNEY_FEEDBACK_BUTTON_TEXT,SubmitÂ &Â startÂ test
+JOURNEY_QUIZ_RESULT_TITLE,YourÂ TestÂ Result
+JOURNEY_QUIZ_CONTRATULATION_TEXT,Congratulations!
+JOURNEY_QUIZ_OPPS_TEXT,OhÂ No!
+JOURNEY_QUIZ_CONTRATULATION_DESCRIPTION_TEXT,YouÂ haveÂ passedÂ theÂ {MODULE_NAME}Â test.
+JOURNEY_QUIZ_OOPS_DESCRIPTION_TEXT,"YouÂ didÂ notÂ passÂ theÂ {MODULE_NAME}Â test,Â pleaseÂ tryÂ again."
+JOURNEY_QUIZ_RESULT_TEXT,YourÂ Results
+JOURNEY_YOUR_SCORED_TEXT,YouÂ scoredÂ 
+JOURNEY_PASS_TEXT,YouÂ haveÂ passedÂ theÂ test
+JOURNEY_FAIL_TEXT,YouÂ haveÂ failedÂ theÂ test
+JOURNEY_REDO_BUTTON_TEXT,RedoÂ Test
+JOURNEY_FINISH_BUTTON_TEXT,FinishÂ Test
+JOURNEY_MODULE_CONGRATULATION_TEXT,Congratulations
+JOURNEY_MODULE_CONGRATULATION_DESCRIPTION_TEXT,"Congratulations,Â youÂ haveÂ earnedÂ yourÂ {MODULE_NAME}Â badge"
+JOURNEY_NEXT_MODULE_TEXT,AndÂ unlockedÂ theÂ {NEXT_MODULE_NAME}Â module
+JOURNEY_NEXT_MODULE_DESCRIPTION_TEXT,
+JOURNEY_MODULE_NEXT_BUTTON_TEXT,Next
+KNOWLEDGE_AREA_LEARNING_MODULE_TITLE,Learn
+MODULE_LEARNING_MODULE_TITLE,SelectÂ Module
+KNOWLEDGE_AREA_LEARNING_MODULE_VIEW_BUTTON_TEXT,ViewÂ Module
+KNOWLEDGE_AREA_LEARNING_MODULE_START_BUTTON_TEXT,StartÂ Module
+KNOWLEDGE_AREA_LEARNING_MODULE_TEXT,LearningÂ Module
+QUESTION_CREATED_BY_INFO_TITLE,Author
+TOTAL_QUESTION_TEXT,TotalÂ Question
+QUESTION_ID_TEXT,QuestionÂ id
+QUESTION_SUBMISSION_TEXT,
+QUESTION_FEEDBACK_TEXT,QuestionÂ Feedback
+QUESTION_FEEDBACK_BUTTON_TEXT,SubmitÂ Now
+LIST_APP_POP_UP_BUTTON_TEXT,PlayÂ Now
+GAME_MODE_BUTTON_TEXT,PlayÂ Now
+USER_BADGES_TITLE,MyÂ Badges
+JOURNEY_MODULE_COMPLETE_BUTTON_TEXT,Done
+JOURNEY_CONTENT_RATING_TEXT,RateÂ thisÂ content
+JOURNEY_CONTENT_REVIEW_TEXT,Reviews
+LIST_APP_QUEST_BUTTON_TEXT,LearnÂ now
+LIST_APP_POLL_BUTTON_TEXT,VoteÂ now
+LIST_APP_KUDOS_BUTTON_TEXT,GiveÂ Kudos
+JOURNEY_QUIZ_BADGE_INFO_POP_UP_TEXT,ThisÂ testÂ consistsÂ ofÂ {NUM_OF_QUESTION}Â questionsÂ andÂ youÂ needÂ toÂ haveÂ {PASS_PERCENTAGE}%Â correctÂ toÂ passÂ it.
+JOURNEY_QUIZ_BADGE_INFO_POP_UP_TITLE,TestÂ yourÂ knowledge.
+JOURNEY_QUIZ_BADGE_INFO_POP_UP_BUTTON_TEXT,Start!
+JOURNEY_FEEDBACK_SKIP_BUTTON_TEXT,Skip
+USER_MODULE_COMPLETE_TEXT,Done
+APP_HOME_RECOMMENDATION_TITLE,ACAMSÂ TV
+APP_HOME_SEE_ALL_TEXT,SeeÂ all
+APP_HOME_SEE_LESS_TEXT,SeeÂ less
+APP_HOME_TIMELINE_TITLE,Timeline
+APP_HOME_LEARNING_TITLE,ContinueÂ learning
+APP_HOME_TV_TEXT,SeeÂ all
+APP_HOME_TIMELINE_TEXT,SeeÂ all
+APP_HOME_LEARNING_TEXT,LearnÂ more
+BADGE_NAME,Badges
+SETTING_BOTTOM_LINE_TEXT_1,CopyrightÂ 2019Â Acams.app.Â AllÂ rightsÂ reserved.
+SETTING_BOTTOM_LINE_TEXT_2,madeÂ withÂ â¤Â inÂ 
+END_LEVEL_TEXT,Complete
+END_LEVEL_ACRONYM_TEXT,Complete
+PROFILE_QUEST_NAME,Learn
+INVALID_VERIFICATION_CODE,InvalidÂ verificationÂ code.
+EMAIL_ALREADY_VERIFIED,EmailÂ isÂ alreadyÂ verified.
+LANGUAGE_TITLE,SelectÂ Language
+MORE_SETTING_TITLE,Settings
+KNOWLEDGE_AREA_LAERNING_TITLE,Learn
+NO_DATA_FOUND,NoÂ DataÂ Found
+GET_QUESTION_FACTORY_MODES,QuestionÂ Factory
+RATE_QUESTION_LIST_TITLE,ReviewÂ Questions
+RATE_QUESTION_SUBMIT_RATING_BUTTON_TEXT,SubmitÂ Rating
+RATE_THIS_QUESTION_TEXT,RateÂ thisÂ question
+INVALID_COURSE_ID,InvalidÂ courseÂ id
+UNAUTHORIZED_ACCESS,UnauthorizedÂ access
+QUESTION_NOT_FOUND,QuestionÂ notÂ addedÂ toÂ thisÂ categoryÂ yet.
+CATEGORY_NOT_FOUND,CategoryÂ notÂ found
+KNOWLEDGE_AREA_NOT_FOUND,KnowledgeÂ areaÂ notÂ found
+JOURNEY_MODULE_NOT_FOUND,ModuleÂ notÂ found
+INCORRECT_OPTIONS,OptionsÂ areÂ incorrect
+ERROR.INVALID_TOKEN,YourÂ accessÂ hasÂ expired.Â PleaseÂ loginÂ again.
+ERROR.DEFAULT,SomethingÂ wentÂ wrong.
+ERROR.NO_APP_FOUND,NoÂ AppsÂ Found.
+ERROR.USER_NOT_FOUND,ThisÂ accountÂ isÂ notÂ registeredÂ withÂ us.
+ERROR.USER_INACTIVE,ThisÂ UserÂ accountÂ isÂ deactivatedÂ byÂ admin.
+ERROR.INVALID_COUNTRY_ID,CountryÂ notÂ found.
+ERROR.EMAIL_NOT_VERIFIED,PleaseÂ verifyÂ yourÂ emailÂ first.
+ERROR.INVALID_ANSWERS,InvalidÂ answers.
+ERROR.INVALID_LANGUAGE,DefaultÂ languageÂ notÂ found.
+ERROR.INVALID_RECOMMENDATION_ID,RecommendationÂ idÂ notÂ found.
+ERROR.OPPONENT_NOT_FOUND,NoÂ opponentÂ availableÂ forÂ thisÂ organization.
+SUCCESS.DEFAULT,Success
+SUCCESS.LOGOUT,LoggedÂ outÂ successfully
+SUCCESS.FEEDBACK_SUBMITTED_SUCCESSFULLY,YourÂ feedbackÂ hasÂ beenÂ submittedÂ successfully.
+LANGUAGE.SUCCESS.DEFAULT,Success
+LANGUAGE.SUCCESS.LOGOUT,LoggedÂ outÂ successfully
+LANGUAGE.SUCCESS.FEEDBACK_SUBMITTED_SUCCESSFULLY,YourÂ feedbackÂ hasÂ beenÂ submittedÂ successfully.
+LANGUAGE.SUCCESS.ANSWER_SUBMITTED,YourÂ answerÂ submittedÂ successfully
+LANGUAGE.SUCCESS.REMINDER_SENT,ReminderÂ sentÂ successfully
+LANGUAGE.ERROR.DEFAULT,SomethingÂ wentÂ wrong.
+LANGUAGE.ERROR.GAME_ID_NOT_FOUND,GameÂ notÂ found.
+LANGUAGE.ERROR.UNAUTHORIZED_ACCESS,unauthorizedÂ access.
+LANGUAGE.ERROR.INVALID_GAME_MODE_TYPE,InvalidÂ gameÂ modeÂ type.
+LANGUAGE.ERROR.INVALID_COURSE_ID,"InvalidÂ course,Â noÂ moduleÂ found."
